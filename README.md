@@ -2,13 +2,9 @@
 
 Passionate about technology since childhood. I've always enjoyed creating and learning
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <div style="border-radius: 20px; overflow: hidden;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    </div>
-    <div style="border-radius: 20px; overflow: hidden;">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    </div>
+<div style="text-align: center;">
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </div>
 
 <div>
