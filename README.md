@@ -1,7 +1,7 @@
-# About me
+# <em>About me</em>
 
 <div style="text-align: center;">
-  <strong><em>Passionate about technology since childhood. I've always enjoyed creating and learning.</em></strong>
+  <em><strong>Passionate about technology since childhood. I've always enjoyed creating and learning.</strong></em>
 </div>
 
 ##
