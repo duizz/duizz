@@ -1,5 +1,10 @@
 # About me
 
+<div style="text-align: center;">
+  <strong><em>Passionate about technology since childhood. I've always enjoyed creating and learning.</em></strong>
+</div>
+
+##
 
 <div align="center">
   
@@ -7,11 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
-
-<div style="text-align: center;">
-  Passionate about technology since childhood. I've always enjoyed creating and learning
-</div>
-
 
 <div>
     <ul>
@@ -23,4 +23,7 @@
 ##
 ![Duiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=duizz&show_icons=true&theme=discord_old_blurple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duizz&theme=discord_old_blurple)](https://github.com/duizz)
+
+
+
 
