@@ -1,6 +1,8 @@
 # About me
 
-Passionate about technology since childhood. I've always enjoyed creating and learning
+<div text-align="center">
+  Passionate about technology since childhood. I've always enjoyed creating and learning
+</div>
 
 <div align="center">
   
