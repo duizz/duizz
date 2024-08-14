@@ -1,6 +1,7 @@
-# <em>About me</em>
+# **About me**
 
-<div style="text-align: center;">
+
+<div align="left">
   <em><strong>I've always enjoyed creating and learning.</strong></em>
 </div>
 
